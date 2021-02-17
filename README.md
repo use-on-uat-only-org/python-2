@@ -8,8 +8,8 @@ Show Me the Code Python version.
 
 ### How to Add your solutions:
 
-  * Fork this repo.
-  * Create a folder named with your github name.
+  * Fork this repo
+  * Create a folder named with your github name
   * Create a folder named the problem num.
   * Add your solution in the folder.
 
